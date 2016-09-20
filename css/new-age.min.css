@@ -271,7 +271,7 @@ section.download .badges .badge-link:last-child {
 }
 
 section.download .badges .badge-link img {
-    height: 250px
+    height: 200px
 }
 
 @media (min-width: 768px) {
