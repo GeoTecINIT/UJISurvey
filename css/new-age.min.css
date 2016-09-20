@@ -453,6 +453,11 @@ footer ul li a.active, footer ul li a:active, footer ul li a:focus, footer ul li
     padding-left: 0
 }
 
+.btn-outline-golden {
+    color: #F39C12;
+    border: 1px solid
+}
+
 .btn-outline {
     color: #fff;
     border: 1px solid
