@@ -271,7 +271,7 @@ section.download .badges .badge-link:last-child {
 }
 
 section.download .badges .badge-link img {
-    height: 200px
+    height: 250px
 }
 
 @media (min-width: 768px) {
@@ -394,7 +394,7 @@ section.contact ul.list-social li a {
 }
 
 footer p, footer ul li a {
-    font-size: 12px
+    font-size: 24px
 }
 
 footer, footer ul li a {
